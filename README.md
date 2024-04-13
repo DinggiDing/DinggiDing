@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-
+<div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=App Developer&desc=Hello%20render&fontSize=90)
+</div>
 
 
 ### 🛠 Languages and Tools
