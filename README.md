@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=App Developer&fontSize=90)
+
+
+
 ### 🛠 Languages and Tools
 
 <!--내용 부분-->
@@ -29,7 +33,8 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
+  <img src="https://img.shields.io/badge/Xcode-147EFB.svg?style=for-the-badge&logo=Xcode&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AndroidStudio-34A853.svg?style=for-the-badge&logo=Android&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
@@ -38,15 +43,19 @@
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
+  <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=Slack&logoColor=F37726" />&nbsp
+
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
 
+<br>
+<br>
 
+<div align="center">
 <a href="https://github.com/DinggiDing"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=DinggiDing&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="SOKURI's github stats" /></a>
 <a href="https://github.com/DinggiDing"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinggiDing&layout=compact&theme=swift&hide_border=true" /></a> 
-
-
+</div>
 
 
 <!--
