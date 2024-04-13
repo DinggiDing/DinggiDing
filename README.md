@@ -4,6 +4,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinggiDing&layout=compact)
 
 
+<a href="https://github.com/DinggiDing"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=DinggiDing&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="SOKURI's github stats" /></a>
+<a href="https://github.com/DinggiDing"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinggiDing&layout=compact&theme=swift&hide_border=true" /></a> 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DinggiDing&show_icons=true&theme=swift)
 
 <!--
