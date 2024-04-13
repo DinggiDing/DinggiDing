@@ -5,8 +5,7 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-00465B?style=flat-square&logo=Java&logoColor=white"/>
-<br/>
+<img src="https://img.shields.io/badge/JAVA-00465B?style=flat-square&logo=JAVA&logoColor=white"/> <br/>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
