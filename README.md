@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinggiDing&layout=compact)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DinggiDing&show_icons=true&theme=swift)
 
 <!--
