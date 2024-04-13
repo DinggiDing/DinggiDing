@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=AppDeveloper%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=AppDeveloper%20&fontColor=d6ace6&fontSize=90)
 
 
 ### 🛠 Languages and Tools
