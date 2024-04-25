@@ -8,8 +8,8 @@
 I am Sungjae Bae, an HCI developer who is deeply thinking about how to integrate IT technologies and improve services in the future. I'm deeply thinking about how to effectively integrate various IT technologies into our services to increase user loyalty.
 
     
-**Design** : Mobile Design, Visualization, User Experience, Prototyping in Figma.   
-**Development** : IOS(SwiftUI), Android(Java), Flutter(Dart), Python, R, JS, C/C++
+**Design** : Mobile Design, Visualization, User Experience, Prototyping in Figma, Interaction in Protopie.   
+**Development** : IOS(SwiftUI), Android(Java, Kotlin), Flutter(Dart), Python, R, JS, C/C++
 
 
 <br>
