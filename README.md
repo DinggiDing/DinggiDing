@@ -9,7 +9,7 @@ I am Sungjae Bae, an HCI developer who is deeply thinking about how to integrate
 
     
 **Design** : Mobile Design, Visualization, User Experience, Prototyping in Figma, Interaction in Protopie.   
-**Development** : IOS(SwiftUI), Android(Java, Kotlin), Flutter(Dart), Python, R, JS, C/C++
+**Development** : IOS(SwiftUI, UIKit), Android(Java, Kotlin), Flutter(Dart), Python, R, JS, C/C++
 
 
 <br>
