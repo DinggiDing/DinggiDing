@@ -68,7 +68,10 @@ I am Sungjae Bae, an HCI developer who is deeply thinking about how to integrate
 <a href="https://github.com/DinggiDing"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=DinggiDing&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="SOKURI's github stats" /></a>
 <a href="https://github.com/DinggiDing"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinggiDing&layout=compact&theme=swift&hide_border=true" /></a> 
 </div>
+
+<div align="center">
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter)
+
 
 <!--
 **DinggiDing/DinggiDing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
