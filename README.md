@@ -73,7 +73,6 @@ I am Sungjae Bae, an HCI developer who is deeply thinking about how to integrate
 
 <div align="center">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=qotjdwo7151&theme=dark" alt="LeetCode Badges"/>
-    ![Leetcode Stats](https://leetcard.jacoblin.cool/qotjdwo7151)
 
 <!--
 **DinggiDing/DinggiDing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
